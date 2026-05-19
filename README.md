@@ -13,7 +13,7 @@ Repositório dedicado ao registro de algoritmos e conceitos teóricos desenvolvi
 * **Nota Teórica**: A variável ~resposta~ é uma variável padrão para armazenar o resultado de algo que é digitado.
 * **Para Casa**: Como você faria para armazenar o resultado em uma variável chamada NOME?
 * **Conceitos Importantes**: Noção de VARIÁVEL; Concatenação de valores (olá + conteúdo da variável “resposta”).
-* **Arquivos**: [Código Scratch](./Atividade-01/pensamento_computacional_exercicio_01.sb3)
+* **Arquivos**: [Código Scratch (Baixar)](./Atividade-01/pensamento_computacional_exercicio_01.sb3) | [Testar Projeto Online](https://scratch.mit.edu/projects/1320771484)
 
 ---
 
