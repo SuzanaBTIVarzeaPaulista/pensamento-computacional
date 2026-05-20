@@ -26,7 +26,7 @@ Repositório dedicado ao registro de algoritmos e conceitos teóricos desenvolvi
     * Por fim, aumente o valor de “var” em 1 e faça o gatinho esperar 2 segundos.
 * **Para Casa**: Escreva o fluxograma correspondente.
 * **Conceitos Importantes**: Variável usada para limite da iteração (“resposta”); Variável que controla número de ações (“var”); IF-THEN-ELSE.
-* **Arquivos**: [Código Scratch](./Atividade-02/pensamento_computacional_exercicio_02.sb3) | [Fluxograma](./Atividade-02/fluxograma_exercicio_02.png)
+* **Arquivos**: [Código Scratch](./Atividade-02/pensamento_computacional_exercicio_02.sb3) | [Fluxograma](./Atividade-02/fluxograma-exercicio-2.png)
 
 ---
 
