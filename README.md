@@ -49,7 +49,6 @@ Repositório dedicado ao registro de algoritmos e conceitos teóricos desenvolvi
 * **Conceitos Importantes**: Variável que controla limite de iterações (“resposta”); Variável que conta número iterações (“var”); IFs aninhados (IF THEN ELSE); Loop zero vezes; Incrementos de passos diferentes; Loop infinito.
 * **Arquivos**: [Código Scratch](./Atividade-03/pensamento_computacional_exercicio_03.sb3) | [Fluxograma](./Atividade-03/fluxograma_exercicio_03.png) [Projeto Online no Scratch](https://scratch.mit.edu/projects/1321649256)
 
-
 ---
 
 ### 🧩 Atividade 04 - Troca de Valores (Pág. 3)
@@ -57,7 +56,7 @@ Repositório dedicado ao registro de algoritmos e conceitos teóricos desenvolvi
 * **Questão de Estudo**: Veja o código abaixo. Para que é necessário uma variável intermediária TEMP?
 * **Para Casa**: Faça o fluxograma correspondente.
 * **Conceitos Importantes**: Modificação de valores em memória (troca de valores).
-* **Arquivos**: [Código Scratch](./Atividade-04/pensamento_computacional_exercicio_04.sb3) | [Fluxograma](./Atividade-04/fluxograma_exercicio_04.png)
+* **Arquivos**: [Código Scratch](./Atividade-04/pensamento_computacional_exercicio_04.sb3) | [Fluxograma](./Atividade-04/fluxograma_exercicio_04.png) [Projeto Online no Scratch](https://scratch.mit.edu/projects/1321649256)
 
 ---
 
