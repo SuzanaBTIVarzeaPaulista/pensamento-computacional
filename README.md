@@ -47,7 +47,7 @@ Repositório dedicado ao registro de algoritmos e conceitos teóricos desenvolvi
 * **Nota de Observação**: Para acompanhar os valores das variáveis, “clique” ao lado no item correspondente. Lembre-se que ao inserir “esperar” por um ou mais segundos, você tem tempo de observar o que está ocorrendo, senão é rápido demais.
 * **Para Casa**: Transforme isto em um fluxograma.
 * **Conceitos Importantes**: Variável que controla limite de iterações (“resposta”); Variável que conta número iterações (“var”); IFs aninhados (IF THEN ELSE); Loop zero vezes; Incrementos de passos diferentes; Loop infinito.
-* **Arquivos**: [Código Scratch](./Atividade-03/pensamento_computacional_exercicio_03.sb3) | [Fluxograma](./Atividade-03/fluxograma_exercicio_03.png) [Projeto Online no Scratch](https://scratch.mit.edu/projects/1321649256)
+* **Arquivos**: [Código Scratch](./Atividade-03/pensamento_computacional_exercicio_03.sb3) | [Fluxograma](./Atividade-03/fluxograma_exercicio_03.png) | [Projeto Online no Scratch](https://scratch.mit.edu/projects/1321649256)
 
 ---
 
