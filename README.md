@@ -63,7 +63,7 @@ Repositório dedicado ao registro de algoritmos e conceitos teóricos desenvolvi
 ### 🧩 Atividade 05 - Funções e Operações: Fatorial (Pág. 4)
 * **Enunciado**: Faça um programa Scratch que, dado um número como entrada, calcule o fatorial desse número e faça o gatinho falar esse número (por exemplo, se a entrada for 4, calcula-se 4\*3\*2\*1 e faz o gatinho falar 24). Para isso será necessária a utilização de uma variável para calcular o número fatorial.
 * **Conceitos Importantes**: Uso de mais uma variável auxiliar (“aux”) para guardar valores intermediários; Programação de função matemática.
-* **Arquivos**: [Código Scratch](./Atividade-05/pensamento_computacional_exercicio_05.sb3)
+* **Arquivos**: [Código Scratch](./Atividade-05/pensamento_computacional_exercicio_05.sb3) | [Projeto Online no Scratch](https://scratch.mit.edu/projects/1330586823)
 
 ---
 
