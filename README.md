@@ -71,7 +71,7 @@ Repositório dedicado ao registro de algoritmos e conceitos teóricos desenvolvi
 * **Enunciado**: Faça um programa que desenhe a reta y=x a partir das coordenadas -120, -120.
 * **Dica Técnica**: Levantar a caneta e limpar são ações úteis para limpar a tela antes de começar um novo desenho.
 * **Conceitos Importantes**: Noções de coordenadas; Equações.
-* **Arquivos**: [Código Scratch](./Atividade-06/pensamento_computacional_exercicio_06.sb3)
+* **Arquivos**: [Código Scratch](./Atividade-06/pensamento_computacional_exercicio_06.sb3) | [Projeto Online no Scratch](https://scratch.mit.edu/projects/1330591494)
 
 ---
 
