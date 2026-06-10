@@ -87,7 +87,7 @@ Repositório dedicado ao registro de algoritmos e conceitos teóricos desenvolvi
     * some 1 a variável “var”.
 * **Questão de Estudo**: *** O que acontece se “var” aumenta de 2 em 2 ao final?
 * **Conceitos Importantes**: Equações; Modificação de variável de controle.
-* **Arquivos**: [Código Scratch](./Atividade-07/pensamento_computacional_exercicio_07.sb3)
+* **Arquivos**: [Código Scratch](./Atividade-07/pensamento_computacional_exercicio_07.sb3) | [Projeto Online no Scratch](https://scratch.mit.edu/projects/1330602450)
 
 ---
 
