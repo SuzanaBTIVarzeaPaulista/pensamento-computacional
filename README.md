@@ -94,7 +94,7 @@ Repositório dedicado ao registro de algoritmos e conceitos teóricos desenvolvi
 ### 🧩 Atividade 08 - Operações com 2 Números (Pág. 5)
 * **Enunciado**: Faça um programa que leia 2 números e mostre a soma deles na tela. Agora mude o programa para fazer outras operações: multiplicar, dividir e subtrair.
 * **Conceitos Importantes**: Uso de várias variáveis de entrada.
-* **Arquivos**: [Código Scratch](./Atividade-08/pensamento_computacional_exercicio_08.sb3)
+* **Arquivos**: [Código Scratch](./Atividade-08/pensamento_computacional_exercicio_08.sb3) | [Projeto Online no Scratch](https://scratch.mit.edu/projects/1330606776)
 
 ---
 
