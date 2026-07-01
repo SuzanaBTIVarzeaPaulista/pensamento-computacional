@@ -56,7 +56,7 @@ Repositório dedicado ao registro de algoritmos e conceitos teóricos desenvolvi
 * **Questão de Estudo**: Veja o código abaixo. Para que é necessário uma variável intermediária TEMP?
 * **Para Casa**: Faça o fluxograma correspondente.
 * **Conceitos Importantes**: Modificação de valores em memória (troca de valores).
-* **Arquivos**: [Código Scratch](./Atividade-04/pensamento_computacional_exercicio_04.sb3) | [Fluxograma](./Atividade-04/fluxograma_exercicio-4.png) | [Projeto Online no Scratch](https://scratch.mit.edu/projects/1320799753)
+* **Arquivos**: [Código Scratch](./Atividade-04/pensamento_computacional_exercicio_04.sb3) | [Fluxograma](./Atividade-04/fluxograma-exercicio-4.png) | [Projeto Online no Scratch](https://scratch.mit.edu/projects/1320799753)
 
 ---
 
