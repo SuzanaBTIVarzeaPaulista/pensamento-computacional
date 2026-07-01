@@ -110,3 +110,39 @@ Repositório dedicado ao registro de algoritmos e conceitos teóricos desenvolvi
 * **Para Casa**: Escreva o fluxograma correspondente ao programa Scratch.
 * **Conceitos Importantes**: Inserir elementos ao final da lista; Reusar a variável xx para percorrer a lista do início ao fim e depois, no segundo loop, do fim ao início; Loops de 1 a N e de N a 1; Uso de acumulador de valores; Percorrer a lista usando iteração.
 * **Arquivos**: [Código Scratch](./Atividade-09/pensamento_computacional_exercicio_09.sb3) | [Fluxograma](./Atividade-09/fluxograma-exercicio-9.png) | [Projeto Online no Scratch](https://scratch.mit.edu/projects/1330610876)
+
+# Atividade 10 - Aplicação Prática de Ferramentas Digitais e IA
+
+Esta atividade foi desenvolvida para aplicar na prática os conhecimentos sobre ferramentas digitais, utilizando Inteligência Artificial (ChatGPT) para a criação de um conteúdo educacional focado em Pensamento Computacional.
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+* **ChatGPT (IA):** Utilizado como co-autor para estruturar, sintetizar e formatar o conteúdo didático de forma clara e acessível.
+* **Scratch:** A ferramenta pedagógica escolhida como tema central para a criação do conteúdo digital.
+
+---
+
+## 📝 Conteúdo Digital Criado: Guia Rápido de Introdução ao Scratch
+
+O Scratch é uma linguagem de programação visual baseada em blocos desenvolvida pelo MIT. Com ela, é possível compreender os fundamentos da computação de forma intuitiva, sem a necessidade de digitar códigos complexos.
+
+### 🚀 Passo a Passo para Criar um Movimento Simples (Exemplo Prático)
+Para fazer o personagem principal (o gato) se mover continuamente ao clicar na bandeira verde, utiliza-se a seguinte sequência de blocos:
+
+1. **Eventos** (Bloco Amarelo): Arraste `quando clicado em [Bandeira Verde]`
+2. **Controle** (Bloco Laranja): Encaixe logo abaixo o laço `sempre`
+3. **Movimento** (Bloco Azul): Coloque dentro do laço o comando `mova (10) passos`
+4. **Movimento** (Bloco Azul): Adicione logo abaixo `se tocar na borda, rebata`
+
+ Ao clicar na **Bandeira Verde**, o personagem se moverá de um lado para o outro na tela de forma contínua.
+
+---
+
+## 🧠 Conceitos de Pensamento Computacional Aplicados
+* **Sequenciamento:** A ordem correta de execução dos blocos de cima para baixo.
+* **Laços de Repetição (Loops):** O uso do bloco `sempre` para manter o movimento ativo.
+* **Condicionais:** O bloco `se tocar na borda, rebata` que analisa o ambiente antes de tomar uma decisão.
+
+---
+*Atividade prática entregue como parte dos requisitos da disciplina de Pensamento Computacional - UNIVESP.*
